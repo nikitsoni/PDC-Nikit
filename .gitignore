@@ -3,5 +3,4 @@ venv
 __pycache__/
 static/uploads/*
 static/output/*
-requirements.txt
 client_secret.json
